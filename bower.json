@@ -1,0 +1,20 @@
+{
+  "name": "ironyard-boilerplate",
+  "version": "0.1.0",
+  "authors": [
+    "William Golden <egdelwonk@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.1"
+  }
+}
